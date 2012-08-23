@@ -1,3 +1,1 @@
-# Ruby on Rails Tutorial: first application
-
-yo!
+rails tutorial demo
