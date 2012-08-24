@@ -19,6 +19,7 @@ group :assets do
   gem 'uglifier', '1.2.3'
 end
 
+gem 'annotate', '2.5.0', group: :development
 gem 'jquery-rails', '2.0.2'
 
 group :test do
